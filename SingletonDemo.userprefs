@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{14BAAAD1-F30F-4A7E-81A6-AE522D85CA48}|Default" GitUserInfo="UsingGIT">
   <MonoDevelop.Ide.Workbench ActiveDocument="SingletonDemo Status">
     <Files>
-      <File FileName="SingletonDemo/Program.cs" Line="15" Column="13" />
-      <File FileName="SingletonDemo/Singleton.cs" Line="23" Column="49" />
+      <File FileName="SingletonDemo/Program.cs" Line="13" Column="15" />
+      <File FileName="SingletonDemo/Singleton.cs" Line="11" Column="23" />
       <File FileName="SingletonDemo Status" />
     </Files>
   </MonoDevelop.Ide.Workbench>
