@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{14BAAAD1-F30F-4A7E-81A6-AE522D85CA48}|Default" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SingletonDemo Status">
+    <Files>
+      <File FileName="SingletonDemo/Program.cs" Line="6" Column="15" />
+      <File FileName="SingletonDemo/Singleton.cs" Line="8" Column="25" />
+      <File FileName="SingletonDemo Status" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SingletonDemo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
